@@ -11,5 +11,6 @@
 - **Trending Languages**: JavaScript are dominant in popular repositories, signaling a strong demand and presence in these languages.
 - **User Engagement**: Many top users contribute significantly to open-source projects, which could provide useful connections for developers in similar domains.
 - **Developer Recommendation**: Focus on projects in popular languages, as contributing to high-engagement repositories in these languages can boost visibility and potential collaborations.
-
+- **Scrapping Automation** : Code is setup in such way that once ther response is parsed from api it automatically writes to `users.csv` and to `repositories.csv`
+- **usage of PySpark** : Instead running pandas Pyspark can be utilied in ease to process the code pretty faster
 
